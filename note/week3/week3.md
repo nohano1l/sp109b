@@ -368,7 +368,7 @@ void WHILE() {
   skip("while");
   skip("(");
   int e = E();
-  emit("if not T%d goto L%d\n", e, whileEnd);
+  emit("if not T%d goto L%d\n", e, whileEnd); //離開迴圈
   skip(")");
   STMT();
   emit("goto L%d\n", whileBegin);
