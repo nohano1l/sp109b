@@ -1,6 +1,6 @@
 # 擴充if功能
 
-* 用03b-compiler2的compiler.c,並參考while的寫法
+* 用03b-compiler2的compiler.c,並參考while的寫法,加以修改
 
 ```
 // if (E) STMT (else STMT)?
