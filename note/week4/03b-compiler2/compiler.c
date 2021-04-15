@@ -10,7 +10,18 @@ int tempIdx = 0, labelIdx = 0;
 
 #define nextTemp() (tempIdx++)
 #define nextLabel() (labelIdx++)
-#define emit printf
+// #define emit printf
+int isTempIr = 0;
+char tempIr[100000], *tempIrp = tempIr;
+#define emit(...) ({ \
+  if (isTempIr){ \
+    sprintf(tempIrp, __VA_ARGS__); \
+    tempIrp += strlen(tempIrp);\
+  }\
+  else { \
+    printf(__VA_ARGS__);\
+  }\
+})
 
 int isNext(char *set) {
   char eset[SMAX], etoken[SMAX];
@@ -132,9 +143,14 @@ void FOR() {
   int e = E();
   emit("if not t%d goto L%d\n", e, forEnd);
   skip(";");
+  isTempIr = 1;
   F();
+  isTempIr = 0;
+  char e3str[1000];
+  strcpy(e3str, tempIr);
   skip(")");
   STMT();
+  emit("%s\n",e3str);
   emit("goto L%d\n", forBegin);
   emit("(L%d)\n", forEnd);
 }

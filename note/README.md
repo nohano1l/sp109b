@@ -5,3 +5,7 @@
 ## 第三周
 * [week3](https://github.com/nohano1l/sp109b/blob/main/note/week3/week3.md)
 * [if](https://github.com/nohano1l/sp109b/blob/main/note/week3/if.md)
+## 第四周
+* [week4](https://github.com/nohano1l/sp109b/blob/main/note/week4/week4.md)
+* [for](https://github.com/nohano1l/sp109b/blob/main/note/week4/for.md)
+## 第五周
