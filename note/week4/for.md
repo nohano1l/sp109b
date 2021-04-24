@@ -1,4 +1,4 @@
-# 擴充for功能
+# 💻擴充for功能
 
 ```
 // F = (E) | Number | Id | Increase | Decrease
@@ -88,7 +88,7 @@ goto L0
 (L1)
 ```
 
-## (第五周)上次compiler for功能的改良
+## (第五周)上次compiler for功能的改良✍
 
 修改i++執行的順序,參考上課時老師的範例，使用暫存的方式，再離開迴圈的時候執行
 

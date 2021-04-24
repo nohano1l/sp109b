@@ -1,4 +1,4 @@
-# 第五周筆記
+# 📖第五周筆記
 
 ## 虛擬機和模擬器的區別?
 
@@ -28,7 +28,7 @@ sudo apt install default-jdk
 
 ![](https://nohano1l.github.io/sp109b/note/week5/picture/2.png)
 
-## 上次compiler for功能的改良
+## 上次compiler for功能的改良✍
 
 修改i++執行的順序,參考上課時老師的範例，使用暫存的方式，再離開迴圈的時候執行
 
