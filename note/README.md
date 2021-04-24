@@ -9,4 +9,9 @@
 * [week4](https://github.com/nohano1l/sp109b/blob/main/note/week4/week4.md)
 * [for](https://github.com/nohano1l/sp109b/blob/main/note/week4/for.md)
 ## 第五周
-* [week5](https://github.com/nohano1l/sp109b/blob/main/note/week5/week5.md)
+[week5](https://github.com/nohano1l/sp109b/blob/main/note/week5/week5.md)
+## 第六周
+[week6](https://github.com/nohano1l/sp109b/blob/main/note/week6/week6.md)
+## 第八周
+
+## 第九周
