@@ -72,7 +72,7 @@ Segmentation fault  //分段錯誤
 
 ## 💻程式碼的輸出及理解
 
-### [lexer.c](https://nohano1l.github.io/sp109b/note/week3/02-lexer/lexer.c)
+### [lexer.c](https://github.com/nohano1l/sp109b/blob/main/note/week3/02-lexer/lexer.c)
 
 * p++ 指的是指標++,*p是指p的內容
 
@@ -193,7 +193,7 @@ int main(int argc, char * argv[]) {
   return 0;
 }
 ```
-* [compiler.c](https://nohano1l.github.io/sp109b/note/week3/03a-compiler/compiler.c)
+* [compiler.c](https://github.com/nohano1l/sp109b/blob/main/note/week3/03a-compiler/compiler.c)
 
 * while.c
 ```
