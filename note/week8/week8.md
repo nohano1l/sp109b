@@ -1,6 +1,6 @@
 # 📖第八周筆記
 
-![](https://nohano1l.github.io/sp109b/note/week8/picture/1.png)
+![a](https://nohano1l.github.io/sp109b/note/week8/picture/1.png)
 
 ### Download glib2
 ```
