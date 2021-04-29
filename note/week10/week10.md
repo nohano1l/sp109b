@@ -21,8 +21,10 @@
 ### 重定位暫存器
 ![](https://nohano1l.github.io/sp109b/note/week10/picture/4.png)
 
+```
 優:簡單
 劣:效能差
+```
 
 ### 基底-界線暫存器
 ![](https://nohano1l.github.io/sp109b/note/week10/picture/2.jpg)
@@ -37,8 +39,10 @@
 ### 分頁機制
 ![](https://nohano1l.github.io/sp109b/note/week10/picture/5.png)
 
+```
 優:可以不連續，每塊都大小一樣,不會有空間大無法使用的狀況
 劣:會有內部斷裂
+```
 
 ## X86架構的通用暫存器（GPR）
 ![](https://nohano1l.github.io/sp109b/note/week10/picture/3.png)
