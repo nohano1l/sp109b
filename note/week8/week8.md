@@ -14,6 +14,7 @@ apt-get install libglib2.0-dev    //dev(開發版):給開發程式用
 ```
 i:進入編輯模式
 Esc:離開編輯模式
+o:插入一行
 yy:複製一行
 dd:刪除一行
 cc:剪下一行
