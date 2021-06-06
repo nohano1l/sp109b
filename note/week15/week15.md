@@ -21,7 +21,7 @@
 
 ### udp和tcp 的執行與差別
 
-* Run
+Run
 
 ```
 $ ./chat
