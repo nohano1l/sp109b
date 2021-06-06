@@ -25,10 +25,10 @@ sudo apt-get install screen
 * 指令
 
 ```
-screen:執行他
-exit:離開
-ctrl+a+c:新增視窗
-ctrl+a+n:變換視窗
+screen : 執行他
+exit : 離開
+ctrl + a + c : 新增視窗
+ctrl + a + n : 變換視窗
 ```
 
 ![](https://nohano1l.github.io/sp109b/note/week14/picture/2.png)
