@@ -4,7 +4,7 @@
 
 ![](https://nohano1l.github.io/sp109b/note/week15/picture/1.png)
 
-* fifo/chat.c 的執行, mmap/ 和 msg/ 執行差不多
+* fifo/chat.c 的執行,跟 mmap/ 和 msg/ 執行差不多
 
 ![](https://nohano1l.github.io/sp109b/note/week15/picture/2.png)
 
@@ -19,9 +19,9 @@
 ### msg(訊息佇列)
 [chat.c](https://github.com/nohano1l/sp109b/blob/main/note/week15/chat3.c)
 
-### udp和tcp 的執行與差別
+### udp 和 tcp 的執行與差別
 
-Run
+兩個執行差不多
 
 ```
 $ ./chat
