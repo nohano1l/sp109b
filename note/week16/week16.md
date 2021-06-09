@@ -28,8 +28,11 @@ multithread/ 的執行，跟 poll/ 和 epoll/ 差不多
 
 ### 差別
 ```
-//能支撐的客戶端及效能 epoll > poll > mutithread
-mutithread 每多一個客戶要多一個thread
-poll 整個server只用一個thread(主程式+一個thread),事件要一個一個測
-epoll 整個server只用一個thread(主程式+一個thread),只要測有事件發生的串流,而不需要全測
+能支撐的客戶端及效能 epoll > poll > mutithread
+
+mutithread/server.c: 每多一個客戶要多一個thread
+
+poll/server.c: 整個server只用一個thread(主程式+一個thread),事件要一個一個測
+
+epoll/server.c: 整個server只用一個thread(主程式+一個thread),只要測有事件發生的串流,而不需要全測
 ```
