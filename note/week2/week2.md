@@ -1,4 +1,4 @@
-# 📖第二周筆記
+# 📖第二週筆記
 ## Compiler 6 steps
 
 ![](https://nohano1l.github.io/sp109b/note/week2/picture/未命名.png)
