@@ -43,6 +43,7 @@ $ gcc -m32 c4.c -o c4  //-m32參數表示要產生的目的碼是32位元
 ![](https://nohano1l.github.io/sp109b/note/finalexam/picture/4.png)
 
 * 執行$ ./c4 -s test/sum.c的部分結果
+
 ![](https://nohano1l.github.io/sp109b/note/finalexam/picture/5.png)
 
 ### 什麼是自舉編譯器(Self-Host Compiler)
