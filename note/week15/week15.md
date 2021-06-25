@@ -45,3 +45,6 @@ receive: hello
 
 ### tcp（通訊控制協定）
 [chat.c](https://github.com/nohano1l/sp109b/blob/main/note/week15/chat5.c)
+
+## 參考資料
+[udp和tcp差別](https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/)

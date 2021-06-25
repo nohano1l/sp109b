@@ -8,7 +8,7 @@
 ```
 
 ## 堆疊機的執行
-
+[出處](https://www.slideshare.net/ccckmit/9-73472922)加以註解
 ![](https://nohano1l.github.io/sp109b/note/week5/picture/1.png)
 
 ## Download

@@ -60,3 +60,6 @@ int main(){
 EBP(框架暫存器):指著目前函數的進入點
 ESP(堆疊暫存器):指著目前堆疊的最後一個
 ```
+
+## 參考資料
+[前三張圖的出處](https://www.slideshare.net/ccckmit/1-73472884)

@@ -5,6 +5,7 @@
 [vmem.c](https://github.com/nohano1l/sp109b/blob/main/note/week9/vmem.c)
 
 ![](https://nohano1l.github.io/sp109b/note/week9/picture/1.png)
+
 ![](https://nohano1l.github.io/sp109b/note/week9/picture/2.png)
 
 ```
@@ -33,4 +34,10 @@ ps -A   //列出目前全部的行程
 ```
 
 ![](https://nohano1l.github.io/sp109b/note/week9/picture/2.jpg)
+
 ![](https://nohano1l.github.io/sp109b/note/week9/picture/3.jpg)
+
+## 參考資料
+[記憶體的配置概念](https://blog.gtwang.org/programming/memory-layout-of-c-program/)
+
+[後三張圖的出處](https://www.slideshare.net/ccckmit/10-73472927)

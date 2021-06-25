@@ -34,3 +34,6 @@ ctrl + a + n : 變換視窗
 ![](https://nohano1l.github.io/sp109b/note/week14/picture/2.png)
 
 * fifo1先寫再讀,fifo2先讀再寫,如果沒按照順序執行會錯誤
+
+## 參考資料
+[管道](https://zh.wikipedia.org/wiki/%E7%AE%A1%E9%81%93_(Unix))
