@@ -46,7 +46,7 @@ $ gcc -m32 c4.c -o c4  //-m32參數表示要產生的目的碼是32位元
 
 ![](https://nohano1l.github.io/sp109b/note/finalexam/picture/5.png)
 
-### 什麼是自舉編譯器(Self-Host Compiler)
+### 什麼是自舉編譯器(Self-Host Compiler)?
 
 * 簡單來說就是可以編譯自己的編譯器，達到《自我編譯》的功能
 
