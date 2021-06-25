@@ -74,7 +74,7 @@ enum { // token : 0-127 直接用該字母表達， 128 以後用代號。
 
 建議先看我上面c4語法及程式碼
 
-*　因為gcc編譯要認函式庫才能編譯
+* 因為gcc編譯要認函式庫才能編譯
 
 ## 參考資料
 [有哪些關於c4 - C in four function 編譯器的文章？](https://www.zhihu.com/question/28249756)
